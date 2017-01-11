@@ -70,7 +70,7 @@ Trên Kafka server, sử dụng console-consumer để thấy log gửi về
 	
 	$ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic rsyslogkafka --from-beginning
 
-Nếu không nhận được log, đọc log của rsyslog tại `/etc/log/rsyslog.log` nếu không thành công.
+Nếu không nhận được log, đọc log của rsyslog tại `/etc/log/rsyslog.log` và comment tại bài viết này để trao đổi thêm.
 	
 	
 	
