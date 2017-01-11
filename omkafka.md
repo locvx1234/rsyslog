@@ -73,4 +73,9 @@ Trên Kafka server, sử dụng console-consumer để thấy log gửi về
 Nếu không nhận được log, đọc log của rsyslog tại `/etc/log/rsyslog.log` và comment tại bài viết này để trao đổi thêm.
 	
 	
+*Tham khảo*
+
+https://dzone.com/articles/recipe-rsyslog-kafka-logstash-1	
+
+
 	
